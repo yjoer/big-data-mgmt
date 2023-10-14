@@ -1,0 +1,151 @@
+<mxfile host="Electron" modified="2023-10-14T15:14:42.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="gRk3VXP3bKdlI5M05w92" version="22.0.2" type="device" pages="3">
+  <diagram name="7V" id="SCI0Ohwf9yO3Z81jdRKG">
+    <mxGraphModel dx="794" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-1" target="_atjP4mjaAMSD2zIr4y4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-1" value="Volume" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-2" value="Velocity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-3" target="_atjP4mjaAMSD2zIr4y4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-3" value="Variety" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-4" target="_atjP4mjaAMSD2zIr4y4-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-4" value="Veracity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-5" target="_atjP4mjaAMSD2zIr4y4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-5" value="Variability" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_atjP4mjaAMSD2zIr4y4-10" target="_atjP4mjaAMSD2zIr4y4-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-10" value="Visualization" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_atjP4mjaAMSD2zIr4y4-11" value="Value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dYNEbMVh56CIXfnsTrPf" name="Phases">
+    <mxGraphModel dx="662" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aJDncioyv7y3m9yEx-sB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJDncioyv7y3m9yEx-sB-1" target="aJDncioyv7y3m9yEx-sB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-1" value="&lt;b&gt;Air quality sensors&lt;/b&gt; in a smart city measure pollution levels by continuously generating real-time data on air pollutants such as particulate matter, nitrogen dioxide, and ozone." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJDncioyv7y3m9yEx-sB-2" target="aJDncioyv7y3m9yEx-sB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-2" value="&lt;b&gt;Collect data&lt;/b&gt; generated by the sensors periodically or event-based, then prepare them for storage. This involves interfacing directly with the sensors to gather and process the raw data into structured data for subsequent analyses." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJDncioyv7y3m9yEx-sB-4" target="aJDncioyv7y3m9yEx-sB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-4" value="&lt;b&gt;Store the air quality data&lt;/b&gt; in a cloud-based storage system. This allows for scalable and secure storage, ensuring that large volumes of data can be accommodated. Cloud storage also facilitates accessibility and retrieval of historical air quality records." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJDncioyv7y3m9yEx-sB-6" target="aJDncioyv7y3m9yEx-sB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-6" value="Environmental scientists and analysts &lt;b&gt;use data analysis techniques&lt;/b&gt; to study trends in air pollution. They analyze the historical data to identify patterns, correlations, and fluctuations in pollution levels over time, helping to understand environmental dynamics." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJDncioyv7y3m9yEx-sB-8" target="aJDncioyv7y3m9yEx-sB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-8" value="&lt;b&gt;An interactive dashboard&lt;/b&gt; is used to present the analysis results. Graphs and maps visually represent air quality indices, pollution hotspots, and variations. This visualization enables city officials and the public to interpret air quality data easily." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aJDncioyv7y3m9yEx-sB-10" value="Based on the interpreted air quality data, city officials may decide to implement traffic control measures in areas with high pollution levels. For instance, real-time data might lead to adjustments in traffic signal timings or the implementation of congestion pricing to reduce vehicular emissions." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="240" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="izz9DQuuNcYEj_DREiMp" name="Obstacles">
+    <mxGraphModel dx="794" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-1" target="TRgZ1Gl9QvLrUodzGEer-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-1" target="TRgZ1Gl9QvLrUodzGEer-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-1" value="Data representation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-2" target="TRgZ1Gl9QvLrUodzGEer-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-2" value="Redundancy reduction and data compression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-3" target="TRgZ1Gl9QvLrUodzGEer-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-3" value="Data lifecycle management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-4" value="Analytical mechanism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-5" value="Data confidentiality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKIwniIQyqPyDBSOVMS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-6" target="TRgZ1Gl9QvLrUodzGEer-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKIwniIQyqPyDBSOVMS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-6" target="TRgZ1Gl9QvLrUodzGEer-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-6" value="Energy management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKIwniIQyqPyDBSOVMS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-7" target="TRgZ1Gl9QvLrUodzGEer-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKIwniIQyqPyDBSOVMS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-7" target="TRgZ1Gl9QvLrUodzGEer-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-7" value="Expandability and scalability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKIwniIQyqPyDBSOVMS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRgZ1Gl9QvLrUodzGEer-8" target="TRgZ1Gl9QvLrUodzGEer-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRgZ1Gl9QvLrUodzGEer-8" value="Cooperation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
