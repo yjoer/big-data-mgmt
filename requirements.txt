@@ -1,6 +1,13 @@
+chromadb
+ipywidgets
 jupyterlab
-numpy
 matplotlib
+mysql-connector-python
+numpy
 opencv-python
+pandas
+python-dotenv
+s3fs
 scikit-learn
 scipy
+tqdm
