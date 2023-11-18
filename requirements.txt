@@ -10,4 +10,5 @@ python-dotenv
 s3fs
 scikit-learn
 scipy
+tensorflow
 tqdm
